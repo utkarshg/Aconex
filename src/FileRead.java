@@ -1,9 +1,19 @@
 import java.io.*;
 
+/**
+ * @author Utkarsh Goel
+ * @version 1.0.0 (1/7/2012)
+ *	This class provides the reading functionality for the parser
+ */
+
 public class FileRead
 {
 	BufferedReader br;
 	
+	/*
+	 * Constructor - Initialises the buffered reader and attempts to open the file
+	 * @param - filename
+	 */
 	public FileRead(String fileName)
 	{
 		try
@@ -12,10 +22,14 @@ public class FileRead
 		}
 		catch (IOException e)	// Catches any error conditions
 		{
-			System.out.println("Got an IOException: " + e.getMessage());
+			System.err.println("Got an IOException: " + e.getMessage());
 		}
 	}
 	
+	/*
+	 * Reads single line at a time from the file. Also implements the functionality to ignore blank lines
+	 * @return - returns a string with the contents of the file or returns "EOF" for end of file
+	 */
 	public String read() throws IOException
 	{
 		if (! br.ready())
@@ -25,6 +39,8 @@ public class FileRead
 		}
 		boolean blank = true;
 		String line = "";
+		
+		//loop for ignoring blank lines
 		while(blank)
 		{
 			line = br.readLine();

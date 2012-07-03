@@ -1,7 +1,17 @@
 import java.io.IOException;
 
-public class Index
+/**
+ * @author Utkarsh Goel
+ * @version 1.0.0 (1/7/2012)
+ *	This is the main class and just provides the functionality of initialising other associated classes 
+ */
+
+public class Gedcom2Xml
 {	
+	/*
+	 * Gets the filenames from the user
+	 * @param - accepts two parameters containg the names of input and output files
+	 */
 	public static void main(String[] args) throws IOException 
 	{
 	    String inputFile = "Data/"+args[0];
