@@ -49,7 +49,14 @@ public class Parser
 					else
 					{
 						expandedNodes.push(previousValues[1].toLowerCase());
-						fw.writeOpenTag(previousValues);
+						if (previousValues.length == 3)
+						{
+							fw.writeValueTags(previousValues);
+						}
+						else
+						{
+							fw.writeOpenTag(previousValues);
+						}
 					}
 					
 				}
