@@ -2,7 +2,7 @@ import java.io.*;
 
 /**
  * @author Utkarsh Goel
- * @version 1.0.0 (1/7/2012)
+ * @version 1.0.1 (1/7/2012)
  *	This class provides the writing functionality for the parser
  */
 
@@ -24,7 +24,8 @@ public class FileWrite
 		}
 		catch (IOException e) // Catches any error conditions
 		{
-			System.err.println("Got an IOException: " + e.getMessage());
+			System.err.println("Result directory does not exist.\nPlease create a result directory in the root folder." );
+			System.exit(1);
 		}
 	}
 	
@@ -34,9 +35,8 @@ public class FileWrite
 	 */
 	public void writeOpenTag(String[] values)
 	{
-		int level = Integer.parseInt(values[0]);
+		int level = getLevel(values[0]);
 		String tag = values[1].toLowerCase();
-
 		addIndent(level+1);
 		
 		pw.println("<"+ tag+">");
@@ -48,7 +48,7 @@ public class FileWrite
 	 */
 	public void writeTags(String[] values)
 	{
-		int level = Integer.parseInt(values[0]);
+		int level = getLevel(values[0]);
 		String tag = values[1].toLowerCase();
 		String data = values[2];
 		addIndent(level+1);
@@ -61,7 +61,7 @@ public class FileWrite
 	 */
 	public void writeNoValueTag(String[] values)
 	{
-		int level = Integer.parseInt(values[0]);
+		int level = getLevel(values[0]);
 		String tag = values[1].toLowerCase();
 		addIndent(level+1);
 		pw.println("<"+ tag+"></"+ tag+">");
@@ -73,7 +73,7 @@ public class FileWrite
 	 */
 	public void writeIndiTags(String[] values)
 	{
-		int level = Integer.parseInt(values[0]);
+		int level = getLevel(values[0]);
 		String id = values[1];
 		String tag = values[2].toLowerCase();
 		addIndent(level+1);
@@ -87,7 +87,7 @@ public class FileWrite
 	 */
 	public void writeValueTags(String[] values)
 	{
-		int level = Integer.parseInt(values[0]);
+		int level = getLevel(values[0]);
 		String tag = values[1].toLowerCase();
 		String value = values[2];
 		addIndent(level+1);
@@ -114,6 +114,26 @@ public class FileWrite
 		{
 			pw.print("	");
 		}
+	}
+	
+	/*
+	 * Converts the level to int
+	 * @param - String value for 
+	 * @return - Integer value of level
+	 */
+	public int getLevel(String lvl)
+	{
+		try
+		{
+			int level = Integer.parseInt(lvl);
+			return level;
+		}
+		catch (NumberFormatException e)
+		{
+			System.err.println("Input file seems corrupt or is missing data.\nParsing has been terminated");
+			System.exit(1);
+		}
+		return -1;
 	}
 	
 	/*

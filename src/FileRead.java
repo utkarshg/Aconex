@@ -2,7 +2,7 @@ import java.io.*;
 
 /**
  * @author Utkarsh Goel
- * @version 1.0.0 (1/7/2012)
+ * @version 1.0.1 (1/7/2012)
  *	This class provides the reading functionality for the parser
  */
 
@@ -22,7 +22,8 @@ public class FileRead
 		}
 		catch (IOException e)	// Catches any error conditions
 		{
-			System.err.println("Got an IOException: " + e.getMessage());
+			System.err.println("The input file does not exist. Please check that the file\nis in correct location and the filename matches with the one provided.");
+			System.exit(1);
 		}
 	}
 	

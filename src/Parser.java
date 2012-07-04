@@ -3,7 +3,7 @@ import java.util.Stack;
 
 /**
  * @author Utkarsh Goel
- * @version 1.0.0 (1/7/2012)
+ * @version 1.0.1 (1/7/2012)
  *	This class provides the logic for parsing and controls the read and write classes. 
  */
 
@@ -22,7 +22,7 @@ public class Parser
 		String check = "";
 		String previousLine = fr.read();						//reads the first line in the document
 		String previousValues[] = previousLine.split("\\s+",3); // splits into three strings
-		previousLevel = Integer.parseInt(previousValues[0]); 
+		previousLevel = fw.getLevel(previousValues[0]); 
 		String thisLine = fr.read();	// reads another line which acts as a reference to first line
 		
 		while (!check.equals("EOF"))		// until end of file
@@ -33,7 +33,8 @@ public class Parser
 				check = "EOF";
 			}
 			String thisValues[] = thisLine.split("\\s+",3);
-			thisLevel = Integer.parseInt(thisValues[0]);
+			thisLevel = fw.getLevel(thisValues[0]); 
+			
 			
 			if(thisLevel > previousLevel)	// first case
 			{
