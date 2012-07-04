@@ -19,8 +19,8 @@ public class Gedcom2Xml
 			System.err.println("Input filename and output filename required.\ne.g. Royalty.txt Parsed.xml");
 			System.exit(1);
 		}
-	    String inputFile = "Data/"+args[0];
-	    String outputFile = "Result/"+args[1];
+	    String inputFile = "../Data/"+args[0];
+	    String outputFile = "../Result/"+args[1];
 	    FileRead fr = new FileRead(inputFile);
 	    FileWrite fw = new FileWrite(outputFile);
 	    @SuppressWarnings("unused")
