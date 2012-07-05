@@ -1,10 +1,20 @@
-The program requires two arguments to run, these are input filename and output filename.
-The filenames should include the extension (e.g. Royalty.txt).
-Please follow the steps below to sucessfully run the program.
-	1. Using change directory command move into the src folder. src folder is located within the 	     root folder.
-	2. Compile the program using the following command:
-	     javac Gedcom2Xml.java
-	3. Run the program by passing it the parameters:
-	    java Gedcom2Xml Royalty.txt Parsed.xml
+Gedcom2Xml
+    usage: java Gedcom2Xml <input> <output>
+    
+description:
+    Convert GedCom files to equivelant XML file. The program
+    requires two arguments to run, these are input filename 
+    and output filename.
+    
+    build and run instructions below.
 
-Please note that the input file should be located in the data folder contained within the root directory. The sample file has been renamed as Royalty.txt and is present in the data folder. The output file would be created in the Result folder contained within the root folder.
+build:    
+    (from src folder in project root)
+    javac Gedcom2Xml.java
+
+run:     
+    (from src folder in project root)
+    java Gedcom2Xml Royalty.txt Parsed.xml
+    
+    - The input file must be located in Data folder
+    - The output file is generated in Result folder

@@ -50,6 +50,7 @@ public class Parser
 					{
 						if (previousValues.length == 3)	// if the node contains data
 						{
+							previousValues[2] = previousValues[2].replace("&","&amp;");
 							fw.writeTags(previousValues);
 						}
 						else
@@ -63,6 +64,7 @@ public class Parser
 						
 						if (previousValues.length == 3)
 						{
+							previousValues[2] = previousValues[2].replace("&","&amp;");
 							fw.writeValueTags(previousValues);
 						}
 						else
@@ -79,19 +81,40 @@ public class Parser
 			{
 				if(thisLevel == previousLevel)
 				{
-					if (previousValues.length == 3)
+					if (thisLevel == 0 && previousLevel == 0)
 					{
-						fw.writeTags(previousValues);
+						if(previousValues[1].startsWith("@") && previousValues[1].endsWith("@"))
+						{
+							if (previousValues.length == 3)
+							{
+								previousValues[2] = previousValues[2].replace("&","&amp;");
+								fw.writeIndiTags(previousValues);
+								fw.writeCloseTags(previousValues[2].toLowerCase(), 2);
+							}
+							else
+							{
+								fw.writeNoValueTag(previousValues);
+							}
+						}
 					}
 					else
 					{
-						fw.writeNoValueTag(previousValues);
+						if (previousValues.length == 3)
+						{
+							previousValues[2] = previousValues[2].replace("&","&amp;");
+							fw.writeTags(previousValues);
+						}
+						else
+						{
+							fw.writeNoValueTag(previousValues);
+						}
 					}
 				}
 				else		// final case, if previous level > this level
 				{
 					if (previousValues.length == 3)
 					{
+						previousValues[2] = previousValues[2].replace("&","&amp;");
 						fw.writeTags(previousValues);
 					}
 					else

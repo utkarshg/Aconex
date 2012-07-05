@@ -26,7 +26,6 @@ public class Gedcom2Xml
 	    @SuppressWarnings("unused")
 		Parser ps = new Parser(fr, fw);
 	    
-	    System.out.println("Success");
 	    System.exit(0);
 	}
 }

@@ -48,7 +48,7 @@
 		<birt>
 			<date>1895</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1952</date>
 		</deat>
 		<famc>@F0005@</famc>
@@ -98,7 +98,7 @@
 		<birt>
 			<date>Jul 1961</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>31 Aug 1997</date>
 		</deat>
 		<famc>@F0015@</famc>
@@ -120,7 +120,7 @@
 		<birt>
 			<date>1865</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1936</date>
 		</deat>
 		<famc>@F0006@</famc>
@@ -158,7 +158,7 @@
 			<date>1841</date>
 			<plac>Buckinham Palace, London</plac>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1910</date>
 		</deat>
 		<famc>@F0007@</famc>
@@ -174,7 +174,7 @@
 		<birt>
 			<date>1864</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1892</date>
 		</deat>
 		<titl>Duke of Clarence</titl>
@@ -189,7 +189,7 @@
 		<birt>
 			<date>1844</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1925</date>
 		</deat>
 		<fams>@F0006@</fams>
@@ -217,7 +217,7 @@
 			<plac>Kengsington Palace</plac>
 			<note>@N0012@</note>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>22 Jan 1901</date>
 			<plac>Osborne House, I of W</plac>
 		</deat>
@@ -234,7 +234,7 @@
 		<birt>
 			<date>1819</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1861</date>
 			<plac>Windsor</plac>
 			<note>@N0011@</note>
@@ -252,7 +252,7 @@
 		<birt>
 			<date>1894</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1972</date>
 		</deat>
 		<titl>Duke of Windsor</titl>
@@ -279,7 +279,7 @@
 		<birt>
 			<date>1840</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1901</date>
 		</deat>
 		<famc>@F0007@</famc>
@@ -291,7 +291,7 @@
 		<birt>
 			<date>1831</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1888</date>
 		</deat>
 		<fams>@F0009@</fams>
@@ -306,7 +306,7 @@
 		<birt>
 			<date>1843</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1878</date>
 		</deat>
 		<famc>@F0007@</famc>
@@ -321,7 +321,7 @@
 		<birt>
 			<date>1844</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1900</date>
 		</deat>
 		<famc>@F0007@</famc>
@@ -337,7 +337,7 @@
 		<birt>
 			<date>1846</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1923</date>
 		</deat>
 		<famc>@F0007@</famc>
@@ -352,7 +352,7 @@
 		<birt>
 			<date>1850</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1942</date>
 		</deat>
 		<titl>Duke of Connaught</titl>
@@ -368,7 +368,7 @@
 		<birt>
 			<date>1853</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1884</date>
 		</deat>
 		<famc>@F0007@</famc>
@@ -383,7 +383,7 @@
 		<birt>
 			<date>1857</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1944</date>
 		</deat>
 		<famc>@F0007@</famc>
@@ -428,7 +428,7 @@
 		<birt>
 			<date>1855</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1944</date>
 		</deat>
 		<titl>14th Earl of Strathmore</titl>
@@ -454,7 +454,7 @@
 		<birt>
 			<date>1884</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1949</date>
 		</deat>
 		<titl>15th Earl of Strathmore</titl>
@@ -553,7 +553,7 @@
 		<birt>
 			<date>1773</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1846</date>
 		</deat>
 		<titl>11th Earl of Strathmore</titl>
@@ -598,7 +598,7 @@
 		<birt>
 			<date>1897</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1965</date>
 		</deat>
 		<famc>@F0005@</famc>
@@ -613,7 +613,7 @@
 		<birt>
 			<date>1882</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1947</date>
 		</deat>
 		<titl>Earl of Harewood</titl>
@@ -628,7 +628,7 @@
 		<birt>
 			<date>1900</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1974</date>
 		</deat>
 		<titl>Duke of Gloucester</titl>
@@ -657,7 +657,7 @@
 		<birt>
 			<date>1905</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1919</date>
 		</deat>
 		<famc>@F0005@</famc>
@@ -670,7 +670,7 @@
 		<birt>
 			<date>1906</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1968</date>
 		</deat>
 		<fams>@F0019@</fams>
@@ -710,7 +710,7 @@
 		<birt>
 			<date>1867</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1931</date>
 		</deat>
 		<famc>@F0006@</famc>
@@ -734,7 +734,7 @@
 		<birt>
 			<date>1849</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1912</date>
 		</deat>
 		<titl>Duke of Fife</titl>
@@ -749,7 +749,7 @@
 		<birt>
 			<date>1872</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1957</date>
 		</deat>
 		<fams>@F0024@</fams>
@@ -764,7 +764,7 @@
 		<birt>
 			<date>1837</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1892</date>
 		</deat>
 		<fams>@F0025@</fams>
@@ -779,7 +779,7 @@
 		<birt>
 			<date>1853</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1920</date>
 		</deat>
 		<fams>@F0026@</fams>
@@ -794,7 +794,7 @@
 		<birt>
 			<date>1874</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1899</date>
 		</deat>
 		<famc>@F0026@</famc>
@@ -810,7 +810,7 @@
 		<birt>
 			<date>1875</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>193</date>
 		</deat>
 		<famc>@F0026@</famc>
@@ -824,7 +824,7 @@
 		<birt>
 			<date>1876</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1936</date>
 		</deat>
 		<famc>@F0026@</famc>
@@ -848,7 +848,7 @@
 		<birt>
 			<date>1865</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1927</date>
 		</deat>
 		<fams>@F0028@</fams>
@@ -862,7 +862,7 @@
 		<birt>
 			<date>1868</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1937</date>
 		</deat>
 		<fams>@F0029@</fams>
@@ -876,7 +876,7 @@
 		<birt>
 			<date>1876</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1938</date>
 		</deat>
 		<fams>@F0030@</fams>
@@ -891,7 +891,7 @@
 		<birt>
 			<date>1831</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1917</date>
 		</deat>
 		<fams>@F0031@</fams>
@@ -906,7 +906,7 @@
 		<birt>
 			<date>1883</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1938</date>
 		</deat>
 		<famc>@F0032@</famc>
@@ -921,7 +921,7 @@
 		<birt>
 			<date>1882</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1920</date>
 		</deat>
 		<famc>@F0032@</famc>
@@ -936,7 +936,7 @@
 		<birt>
 			<date>1891</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1951</date>
 		</deat>
 		<famc>@F0023@</famc>
@@ -951,7 +951,7 @@
 		<birt>
 			<date>1914</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1943</date>
 		</deat>
 		<titl>Duke of Connaught</titl>
@@ -966,7 +966,7 @@
 		<birt>
 			<date>1882</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1973</date>
 		</deat>
 		<fams>@F0034@</fams>
@@ -981,7 +981,7 @@
 		<birt>
 			<date>1860</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1917</date>
 		</deat>
 		<fams>@F0032@</fams>
@@ -996,7 +996,7 @@
 		<birt>
 			<date>1861</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1922</date>
 		</deat>
 		<fams>@F0035@</fams>
@@ -1011,7 +1011,7 @@
 		<birt>
 			<date>1858</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1896</date>
 		</deat>
 		<fams>@F0036@</fams>
@@ -1225,7 +1225,7 @@
 		<birt>
 			<date>1767</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1820</date>
 		</deat>
 		<titl>Duke of Kent</titl>
@@ -1241,7 +1241,7 @@
 		<birt>
 			<date>1786</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1861</date>
 		</deat>
 		<fams>@F0042@</fams>
@@ -1256,7 +1256,7 @@
 		<birt>
 			<date>1738</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1820</date>
 		</deat>
 		<famc>@F0044@</famc>
@@ -1288,7 +1288,7 @@
 		<birt>
 			<date>1707</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1751</date>
 		</deat>
 		<titl>Prince of Wales</titl>
@@ -1304,7 +1304,7 @@
 		<birt>
 			<date>1683</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1760</date>
 		</deat>
 		<famc>@F0046@</famc>
@@ -1320,7 +1320,7 @@
 		<birt>
 			<date>1660</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1727</date>
 		</deat>
 		<famc>@F0061@</famc>
@@ -1353,7 +1353,7 @@
 		<birt>
 			<date>1683</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1737</date>
 		</deat>
 		<fams>@F0045@</fams>
@@ -1391,7 +1391,7 @@
 		<birt>
 			<date>1724</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1751</date>
 		</deat>
 		<famc>@F0045@</famc>
@@ -1405,7 +1405,7 @@
 		<birt>
 			<date>1723</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1766</date>
 		</deat>
 		<fams>@F0047@</fams>
@@ -1420,7 +1420,7 @@
 		<birt>
 			<date>1749</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1808</date>
 		</deat>
 		<famc>@F0047@</famc>
@@ -1436,7 +1436,7 @@
 		<birt>
 			<date>1751</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1775</date>
 		</deat>
 		<famc>@F0044@</famc>
@@ -1451,7 +1451,7 @@
 		<birt>
 			<date>1719</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1772</date>
 		</deat>
 		<fams>@F0044@</fams>
@@ -1466,7 +1466,7 @@
 		<birt>
 			<date>1737</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1806</date>
 		</deat>
 		<famc>@F0044@</famc>
@@ -1489,7 +1489,7 @@
 		<birt>
 			<date>1743</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1805</date>
 		</deat>
 		<titl>Duke of Gloucester</titl>
@@ -1513,7 +1513,7 @@
 		<birt>
 			<date>1744</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1818</date>
 		</deat>
 		<fams>@F0043@</fams>
@@ -1537,7 +1537,7 @@
 		<birt>
 			<date>1768</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1821</date>
 		</deat>
 		<famc>@F0049@</famc>
@@ -1552,7 +1552,7 @@
 		<birt>
 			<date>1762</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1830</date>
 		</deat>
 		<famc>@F0043@</famc>
@@ -1568,7 +1568,7 @@
 		<birt>
 			<date>1796</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1817</date>
 		</deat>
 		<famc>@F0050@</famc>
@@ -1583,7 +1583,7 @@
 		<birt>
 			<date>1790</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1865</date>
 		</deat>
 		<fams>@F0051@</fams>
@@ -1598,7 +1598,7 @@
 		<birt>
 			<date>1763</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1827</date>
 		</deat>
 		<titl>Duke of York</titl>
@@ -1614,7 +1614,7 @@
 		<birt>
 			<date>1765</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1837</date>
 		</deat>
 		<famc>@F0043@</famc>
@@ -1630,7 +1630,7 @@
 		<birt>
 			<date>1771</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1851</date>
 		</deat>
 		<titl>Duke of Cumberland</titl>
@@ -1646,7 +1646,7 @@
 		<birt>
 			<date>1773</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1843</date>
 		</deat>
 		<titl>Duke of Sussex</titl>
@@ -1663,7 +1663,7 @@
 		<birt>
 			<date>1774</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1850</date>
 		</deat>
 		<famc>@F0043@</famc>
@@ -1678,7 +1678,7 @@
 		<birt>
 			<date>1776</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1857</date>
 		</deat>
 		<famc>@F0043@</famc>
@@ -1701,7 +1701,7 @@
 		<birt>
 			<date>1766</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1834</date>
 		</deat>
 		<titl>Duke of Gloucester</titl>
@@ -1717,7 +1717,7 @@
 		<birt>
 			<date>1767</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1820</date>
 		</deat>
 		<fams>@F0054@</fams>
@@ -1732,7 +1732,7 @@
 		<birt>
 			<date>1792</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1849</date>
 		</deat>
 		<fams>@F0055@</fams>
@@ -1747,7 +1747,7 @@
 		<birt>
 			<date>1778</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1841</date>
 		</deat>
 		<fams>@F0056@</fams>
@@ -1762,7 +1762,7 @@
 		<birt>
 			<date>1768</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1830</date>
 		</deat>
 		<fams>@F0057@</fams>
@@ -1776,7 +1776,7 @@
 		<birt>
 			<date>1785</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1873</date>
 		</deat>
 		<titl>D of Inverness</titl>
@@ -1792,7 +1792,7 @@
 		<birt>
 			<date>1797</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1889</date>
 		</deat>
 		<fams>@F0059@</fams>
@@ -1815,7 +1815,7 @@
 		<birt>
 			<date>1833</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1897</date>
 		</deat>
 		<famc>@F0059@</famc>
@@ -1830,7 +1830,7 @@
 		<birt>
 			<date>1837</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1900</date>
 		</deat>
 		<titl>Duke of Teck</titl>
@@ -1846,7 +1846,7 @@
 		<birt>
 			<date>1629</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1698</date>
 		</deat>
 		<fams>@F0061@</fams>
@@ -1861,7 +1861,7 @@
 		<birt>
 			<date>1630</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1714</date>
 		</deat>
 		<famc>@F0062@</famc>
@@ -1876,7 +1876,7 @@
 		<birt>
 			<date>1596</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1632</date>
 		</deat>
 		<fams>@F0062@</fams>
@@ -1891,7 +1891,7 @@
 		<birt>
 			<date>1596</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1662</date>
 		</deat>
 		<famc>@F0063@</famc>
@@ -1906,7 +1906,7 @@
 		<birt>
 			<date>1566</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1625</date>
 		</deat>
 		<famc>@F0075@</famc>
@@ -1922,7 +1922,7 @@
 		<birt>
 			<date>1594</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1612</date>
 		</deat>
 		<famc>@F0063@</famc>
@@ -1937,7 +1937,7 @@
 		<birt>
 			<date>1600</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1649</date>
 		</deat>
 		<famc>@F0063@</famc>
@@ -1953,7 +1953,7 @@
 		<birt>
 			<date>1609</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1669</date>
 		</deat>
 		<fams>@F0064@</fams>
@@ -1968,7 +1968,7 @@
 		<birt>
 			<date>1630</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1685</date>
 		</deat>
 		<famc>@F0064@</famc>
@@ -1983,7 +1983,7 @@
 		<birt>
 			<date>1631</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1660</date>
 		</deat>
 		<famc>@F0064@</famc>
@@ -1998,7 +1998,7 @@
 		<birt>
 			<date>1633</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1701</date>
 		</deat>
 		<famc>@F0064@</famc>
@@ -2015,7 +2015,7 @@
 		<birt>
 			<date>1640</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1660</date>
 		</deat>
 		<famc>@F0064@</famc>
@@ -2030,7 +2030,7 @@
 		<birt>
 			<date>1644</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1670</date>
 		</deat>
 		<famc>@F0064@</famc>
@@ -2045,7 +2045,7 @@
 		<birt>
 			<date>1626</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1650</date>
 		</deat>
 		<fams>@F0065@</fams>
@@ -2060,7 +2060,7 @@
 		<birt>
 			<date>1637</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1671</date>
 		</deat>
 		<fams>@F0066@</fams>
@@ -2075,7 +2075,7 @@
 		<birt>
 			<date>1658</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1718</date>
 		</deat>
 		<fams>@F0067@</fams>
@@ -2090,7 +2090,7 @@
 		<birt>
 			<date>1650</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1702</date>
 		</deat>
 		<famc>@F0065@</famc>
@@ -2106,7 +2106,7 @@
 		<birt>
 			<date>1662</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1694</date>
 		</deat>
 		<famc>@F0066@</famc>
@@ -2122,7 +2122,7 @@
 		<birt>
 			<date>1665</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1714</date>
 		</deat>
 		<famc>@F0066@</famc>
@@ -2138,7 +2138,7 @@
 		<birt>
 			<date>1653</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1708</date>
 		</deat>
 		<fams>@F0070@</fams>
@@ -2153,7 +2153,7 @@
 		<birt>
 			<date>1689</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1700</date>
 		</deat>
 		<famc>@F0070@</famc>
@@ -2168,7 +2168,7 @@
 		<birt>
 			<date>1688</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1766</date>
 		</deat>
 		<famc>@F0067@</famc>
@@ -2192,7 +2192,7 @@
 		<birt>
 			<date>1720</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1788</date>
 		</deat>
 		<famc>@F0071@</famc>
@@ -2208,7 +2208,7 @@
 		<birt>
 			<date>1725</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1807</date>
 		</deat>
 		<famc>@F0071@</famc>
@@ -2223,7 +2223,7 @@
 		<birt>
 			<date>1752</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1824</date>
 		</deat>
 		<fams>@F0072@</fams>
@@ -2238,7 +2238,7 @@
 		<birt>
 			<date>1640</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1701</date>
 		</deat>
 		<fams>@F0073@</fams>
@@ -2263,7 +2263,7 @@
 		<birt>
 			<date>1574</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1619</date>
 		</deat>
 		<fams>@F0063@</fams>
@@ -2283,7 +2283,7 @@
 		<birt>
 			<date>1545</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1567</date>
 		</deat>
 		<famc>@F0081@</famc>
@@ -2299,7 +2299,7 @@
 		<birt>
 			<date>1542</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1587</date>
 		</deat>
 		<famc>@F0078@</famc>
@@ -2317,7 +2317,7 @@
 		<birt>
 			<date>1544</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1560</date>
 		</deat>
 		<fams>@F0076@</fams>
@@ -2332,7 +2332,7 @@
 		<birt>
 			<date>1536</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1578</date>
 		</deat>
 		<fams>@F0077@</fams>
@@ -2347,7 +2347,7 @@
 		<birt>
 			<date>1512</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1542</date>
 		</deat>
 		<famc>@F0079@</famc>
@@ -2363,7 +2363,7 @@
 		<birt>
 			<date>1473</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1513</date>
 		</deat>
 		<fams>@F0079@</fams>
@@ -2378,7 +2378,7 @@
 		<birt>
 			<date>1489</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1541</date>
 		</deat>
 		<famc>@F0083@</famc>
@@ -2404,7 +2404,7 @@
 		<birt>
 			<date>1515</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1578</date>
 		</deat>
 		<famc>@F0080@</famc>
@@ -2419,7 +2419,7 @@
 		<birt>
 			<date>1516</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1571</date>
 		</deat>
 		<fams>@F0081@</fams>
@@ -2443,7 +2443,7 @@
 		<birt>
 			<date>1457</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1509</date>
 		</deat>
 		<famc>@F0100@</famc>
@@ -2459,7 +2459,7 @@
 		<birt>
 			<date>1466</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1503</date>
 		</deat>
 		<fams>@F0083@</fams>
@@ -2473,7 +2473,7 @@
 		<birt>
 			<date>1486</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1502</date>
 		</deat>
 		<famc>@F0083@</famc>
@@ -2489,7 +2489,7 @@
 		<birt>
 			<date>1491</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1547</date>
 		</deat>
 		<famc>@F0083@</famc>
@@ -2510,7 +2510,7 @@
 		<birt>
 			<date>1496</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1533</date>
 		</deat>
 		<famc>@F0083@</famc>
@@ -2526,7 +2526,7 @@
 		<birt>
 			<date>1485</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1536</date>
 		</deat>
 		<fams>@F0084@</fams>
@@ -2541,7 +2541,7 @@
 		<birt>
 			<date>1516</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1558</date>
 		</deat>
 		<famc>@F0085@</famc>
@@ -2557,7 +2557,7 @@
 		<birt>
 			<date>1527</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1598</date>
 		</deat>
 		<fams>@F0086@</fams>
@@ -2572,7 +2572,7 @@
 		<birt>
 			<date>1501</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1536</date>
 		</deat>
 		<fams>@F0087@</fams>
@@ -2592,7 +2592,7 @@
 	<indi id="@I0201@">
 		<name>Anne of Cleves</name>
 		<sex>F</sex>
-		<deat>
+		<deat value="Y">
 			<date>1557</date>
 		</deat>
 		<fams>@F0089@</fams>
@@ -2604,7 +2604,7 @@
 	<indi id="@I0202@">
 		<name>Catherine /Howard/</name>
 		<sex>F</sex>
-		<deat>
+		<deat value="Y">
 			<date>1542</date>
 		</deat>
 		<fams>@F0090@</fams>
@@ -2616,7 +2616,7 @@
 	<indi id="@I0203@">
 		<name>Catherine /Parr/</name>
 		<sex>F</sex>
-		<deat>
+		<deat value="Y">
 			<date>1548</date>
 		</deat>
 		<fams>@F0091@</fams>
@@ -2630,7 +2630,7 @@
 		<birt>
 			<date>1533</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1603</date>
 		</deat>
 		<famc>@F0087@</famc>
@@ -2645,7 +2645,7 @@
 		<birt>
 			<date>1537</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1553</date>
 		</deat>
 		<famc>@F0088@</famc>
@@ -2660,7 +2660,7 @@
 		<birt>
 			<date>1515</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1560</date>
 		</deat>
 		<fams>@F0078@</fams>
@@ -2675,7 +2675,7 @@
 		<birt>
 			<date>1462</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1515</date>
 		</deat>
 		<fams>@F0092@</fams>
@@ -2690,7 +2690,7 @@
 		<birt>
 			<date>1484</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1545</date>
 		</deat>
 		<fams>@F0093@</fams>
@@ -2705,7 +2705,7 @@
 		<birt>
 			<date>1517</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1559</date>
 		</deat>
 		<famc>@F0093@</famc>
@@ -2721,7 +2721,7 @@
 		<birt>
 			<date>1508</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1554</date>
 		</deat>
 		<fams>@F0094@</fams>
@@ -2736,7 +2736,7 @@
 		<birt>
 			<date>1537</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1554</date>
 		</deat>
 		<famc>@F0094@</famc>
@@ -2749,7 +2749,7 @@
 	<indi id="@I0212@">
 		<name>Adrian /Stokes/</name>
 		<sex>M</sex>
-		<deat>
+		<deat value="Y">
 			<date>1581</date>
 		</deat>
 		<fams>@F0095@</fams>
@@ -2760,7 +2760,7 @@
 	<indi id="@I0213@">
 		<name>Guilford /Dudley/</name>
 		<sex>M</sex>
-		<deat>
+		<deat value="Y">
 			<date>1554</date>
 		</deat>
 		<fams>@F0096@</fams>
@@ -2775,7 +2775,7 @@
 		<birt>
 			<date>1555</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1576</date>
 		</deat>
 		<famc>@F0081@</famc>
@@ -2799,7 +2799,7 @@
 		<birt>
 			<date>1575</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1615</date>
 		</deat>
 		<famc>@F0097@</famc>
@@ -2814,7 +2814,7 @@
 		<birt>
 			<date>1588</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1660</date>
 		</deat>
 		<fams>@F0098@</fams>
@@ -2838,7 +2838,7 @@
 		<birt>
 			<date>1430</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1456</date>
 		</deat>
 		<famc>@F0101@</famc>
@@ -2854,7 +2854,7 @@
 		<birt>
 			<date>1443</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1509</date>
 		</deat>
 		<famc>@F0124@</famc>
@@ -2869,7 +2869,7 @@
 		<birt>
 			<date>ABT 1400</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1461</date>
 		</deat>
 		<fams>@F0101@</fams>
@@ -2884,7 +2884,7 @@
 		<birt>
 			<date>1401</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1438</date>
 		</deat>
 		<fams>@F0101@</fams>
@@ -2900,7 +2900,7 @@
 		<birt>
 			<date>1431</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1495</date>
 		</deat>
 		<famc>@F0101@</famc>
@@ -2925,7 +2925,7 @@
 		<birt>
 			<date>1387</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1422</date>
 		</deat>
 		<famc>@F0107@</famc>
@@ -2941,7 +2941,7 @@
 		<birt>
 			<date>1421</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1471</date>
 		</deat>
 		<famc>@F0103@</famc>
@@ -2957,7 +2957,7 @@
 		<birt>
 			<date>1430</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1482</date>
 		</deat>
 		<fams>@F0104@</fams>
@@ -2972,7 +2972,7 @@
 		<birt>
 			<date>1453</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1471</date>
 		</deat>
 		<famc>@F0104@</famc>
@@ -2998,7 +2998,7 @@
 		<birt>
 			<date>1452</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1485</date>
 		</deat>
 		<fams>@F0106@</fams>
@@ -3013,7 +3013,7 @@
 		<birt>
 			<date>1366</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1413</date>
 		</deat>
 		<famc>@F0108@</famc>
@@ -3026,7 +3026,7 @@
 	<indi id="@I0232@">
 		<name>Mary /Bohun/</name>
 		<sex>F</sex>
-		<deat>
+		<deat value="Y">
 			<date>1394</date>
 		</deat>
 		<fams>@F0107@</fams>
@@ -3041,7 +3041,7 @@
 		<birt>
 			<date>1340</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1399</date>
 		</deat>
 		<famc>@F0109@</famc>
@@ -3058,7 +3058,7 @@
 		<birt>
 			<date>1345</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1369</date>
 		</deat>
 		<fams>@F0108@</fams>
@@ -3073,7 +3073,7 @@
 		<birt>
 			<date>1312</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1377</date>
 		</deat>
 		<fams>@F0109@</fams>
@@ -3088,7 +3088,7 @@
 		<birt>
 			<date>1314</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1369</date>
 		</deat>
 		<fams>@F0109@</fams>
@@ -3110,7 +3110,7 @@
 		<birt>
 			<date>1338</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1368</date>
 		</deat>
 		<famc>@F0109@</famc>
@@ -3135,7 +3135,7 @@
 		<birt>
 			<date>1355</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1381</date>
 		</deat>
 		<famc>@F0110@</famc>
@@ -3151,7 +3151,7 @@
 		<birt>
 			<date>1332</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1363</date>
 		</deat>
 		<fams>@F0110@</fams>
@@ -3166,7 +3166,7 @@
 		<birt>
 			<date>1352</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1381</date>
 		</deat>
 		<fams>@F0111@</fams>
@@ -3180,7 +3180,7 @@
 		<birt>
 			<date>1373</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1398</date>
 		</deat>
 		<famc>@F0111@</famc>
@@ -3196,7 +3196,7 @@
 		<birt>
 			<date>1390</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1411</date>
 		</deat>
 		<famc>@F0112@</famc>
@@ -3208,7 +3208,7 @@
 	<indi id="@I0245@">
 		<name>Eleanore</name>
 		<sex>F</sex>
-		<deat>
+		<deat value="Y">
 			<date>1405</date>
 		</deat>
 		<fams>@F0112@</fams>
@@ -3231,7 +3231,7 @@
 		<birt>
 			<date>1376</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1415</date>
 		</deat>
 		<famc>@F0113@</famc>
@@ -3247,7 +3247,7 @@
 		<birt>
 			<date>1411</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1460</date>
 		</deat>
 		<famc>@F0114@</famc>
@@ -3263,7 +3263,7 @@
 		<birt>
 			<date>1415</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1495</date>
 		</deat>
 		<famc>@F0117@</famc>
@@ -3286,7 +3286,7 @@
 		<birt>
 			<date>1371</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1410</date>
 		</deat>
 		<famc>@F0116@</famc>
@@ -3298,7 +3298,7 @@
 	<indi id="@I0252@">
 		<name>Joan</name>
 		<sex>F</sex>
-		<deat>
+		<deat value="Y">
 			<date>1445</date>
 		</deat>
 		<famc>@F0116@</famc>
@@ -3314,7 +3314,7 @@
 		<birt>
 			<date>1363</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1425</date>
 		</deat>
 		<fams>@F0117@</fams>
@@ -3329,7 +3329,7 @@
 		<birt>
 			<date>1400</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1460</date>
 		</deat>
 		<famc>@F0117@</famc>
@@ -3345,7 +3345,7 @@
 		<birt>
 			<date>1406</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1462</date>
 		</deat>
 		<fams>@F0118@</fams>
@@ -3359,7 +3359,7 @@
 		<birt>
 			<date>1428</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1471</date>
 		</deat>
 		<famc>@F0118@</famc>
@@ -3375,7 +3375,7 @@
 		<birt>
 			<date>1429</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1492</date>
 		</deat>
 		<fams>@F0119@</fams>
@@ -3398,7 +3398,7 @@
 		<birt>
 			<date>1385</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1439</date>
 		</deat>
 		<fams>@F0121@</fams>
@@ -3411,7 +3411,7 @@
 	<indi id="@I0261@">
 		<name>Thomas</name>
 		<sex>M</sex>
-		<deat>
+		<deat value="Y">
 			<date>1421</date>
 		</deat>
 		<fams>@F0123@</fams>
@@ -3426,7 +3426,7 @@
 		<birt>
 			<date>1404</date>
 		</birt>
-		<deat>
+		<deat value="Y">
 			<date>1444</date>
 		</deat>
 		<famc>@F0121@</famc>
@@ -3439,7 +3439,7 @@
 	<indi id="@I0263@">
 		<name>Margaret</name>
 		<sex>F</sex>
-		<deat>
+		<deat value="Y">
 			<date>1482</date>
 		</deat>
 		<fams>@F0124@</fams>
@@ -4509,19 +4509,20 @@
 	</note>
 	<note id="@N0020@">
 		<conc>Duke of Edinburgh</conc>
-		<cont>Duke of Saxe-Coburg & Gotha 1893</cont>
+		<cont>Duke of Saxe-Coburg &amp; Gotha 1893</cont>
 	</note>
 	<note id="@N0021@">
 		<conc>dau of Alexander II, Emperor of Russia</conc>
 	</note>
 	<note id="@N0022@">
-		<conc>Her. Pr. of Saxe-Coburg & Gotha</conc>
+		<conc>Her. Pr. of Saxe-Coburg &amp; Gotha</conc>
 		<cont></cont>
 	</note>
 	<note id="@N0023@">
 		<conc>King of Rumania</conc>
 	</note>
-	<@n0024@>NOTE</@n0024@>
+	<note id="@N0024@">
+	</note>
 	<note id="@N0025@">
 		<conc>GD of Hesse</conc>
 	</note>
@@ -4538,7 +4539,7 @@
 		<conc>dau of Pr. Fred. Charles of Prussia</conc>
 	</note>
 	<note id="@N0030@">
-		<conc>dau of George Vict. Pr of Waldeck & Pyrmont</conc>
+		<conc>dau of George Vict. Pr of Waldeck &amp; Pyrmont</conc>
 	</note>
 	<note id="@N0031@">
 		<conc>Pr Henry Maurice of Battenberg</conc>
@@ -4553,7 +4554,7 @@
 		<conc>dau of Gunther, B of Reibnitz</conc>
 	</note>
 	<note id="@N0035@">
-		<conc>Pr of Saxe-Coburg & Gotha</conc>
+		<conc>Pr of Saxe-Coburg &amp; Gotha</conc>
 	</note>
 	<note id="@N0036@">
 		<conc>dau of Francis, Duke of Saxe-Coburg Saalfeld</conc>
@@ -4826,7 +4827,7 @@
 		<cont>Next monarch Edward IV</cont>
 	</note>
 	<note id="@N0115@">
-		<conc>dau of Rene, King of Sicily & Naples</conc>
+		<conc>dau of Rene, King of Sicily &amp; Naples</conc>
 	</note>
 	<note id="@N0116@">
 		<conc>Prince of Wales</conc>
@@ -4908,5 +4909,4 @@
 		<auth>glamis family</auth>
 		<publ>Glamis Guide</publ>
 	</sour>
-	<trlr></trlr>
 </gedcom>
